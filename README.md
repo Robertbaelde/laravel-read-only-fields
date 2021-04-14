@@ -29,6 +29,7 @@ class YourModel extends Model
 }
 ```
 
+
 ## Updating read only fields
 
 When you want to update a read only field, you can mark that you intend to update the field by using `writable(['read_only_field'])`.
