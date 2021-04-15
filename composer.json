@@ -1,10 +1,13 @@
 {
     "name": "temperworks/laravel_read_only_fields",
-    "description": "This is my package ReadOnlyFields",
+    "description": "Protect read only fields from accidentally being updated",
     "keywords": [
         "TemperWorks",
         "laravel",
-        "laravel_read_only_fields"
+        "laravel_read_only_fields",
+        "event sourcing",
+        "read only",
+        "write protect"
     ],
     "homepage": "https://github.com/temperworks/laravel_read_only_fields",
     "license": "MIT",
@@ -42,14 +45,6 @@
         "sort-packages": true
     },
     "extra": {
-        "laravel": {
-            "providers": [
-                "Temperworks\\ReadOnlyFields\\ReadOnlyFieldsServiceProvider"
-            ],
-            "aliases": {
-                "ReadOnlyFields": "Temperworks\\ReadOnlyFields\\ReadOnlyFieldsFacade"
-            }
-        }
     },
     "minimum-stability": "dev",
     "prefer-stable": true

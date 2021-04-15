@@ -2,7 +2,7 @@
 
 [comment]: <> ([![Latest Version on Packagist]&#40;https://img.shields.io/packagist/v/temperworks/laravel_read_only_fields.svg?style=flat-square&#41;]&#40;https://packagist.org/packages/temperworks/laravel_read_only_fields&#41;)
 
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/temperworks/laravel_read_only_fields/run-tests?label=tests)](https://github.com/temperworks/laravel_read_only_fields/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/temperworks/laravel-read-only-fields/run-tests?label=tests)](https://github.com/TemperWorks/laravel-read-only-fields/actions?query=workflow%3Arun-tests+branch%3Amain)
 
 [comment]: <> ([![GitHub Code Style Action Status]&#40;https://img.shields.io/github/workflow/status/temperworks/laravel_read_only_fields/Check%20&%20fix%20styling?label=code%20style&#41;]&#40;https://github.com/temperworks/laravel_read_only_fields/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amaster&#41;)
 
