@@ -1,20 +1,19 @@
 {
-    "name": "temperworks/laravel_read_only_fields",
+    "name": "robertbaelde/laravel_read_only_fields",
     "description": "Protect read only fields from accidentally being updated",
     "keywords": [
-        "TemperWorks",
         "laravel",
         "laravel_read_only_fields",
         "event sourcing",
         "read only",
         "write protect"
     ],
-    "homepage": "https://github.com/temperworks/laravel_read_only_fields",
+    "homepage": "https://github.com/robertbaelde/laravel_read_only_fields",
     "license": "MIT",
     "authors": [
         {
             "name": "Robert Baelde",
-            "email": "r.baelde@temper.works",
+            "email": "robert@bitscan.net",
             "role": "Developer"
         }
     ],
